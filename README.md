@@ -32,7 +32,7 @@ Most CNN models on traffic signs have trained their models on the GTSRB database
 ![5](images/top_bottom_5_collage2.png)
 
 ### Report:
-The final report that was submitted for the DAP project can be viewed/downloaded from [this link]().
+The final report that was submitted for the DAP project can be viewed/downloaded from [this link](https://github.com/VKT96/Data_Mining_Machine_Learning2/raw/main/Project%20Report.pdf).
 
 
 ### Future Work:
